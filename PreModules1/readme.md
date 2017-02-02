@@ -8,7 +8,7 @@
         /main.cpp <-- Main controller
 
 ###Ki Ageng Satria Pamungkas
-* 2 February 2017 
+* February 2,2017
 
         /student.cpp <-- Class controller for question 1
         /student.h <-- Class module for question 1
