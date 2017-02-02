@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/arpoi.cpp
+iostream
+-
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/main.cpp
+iostream
+-
+student.cpp
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/student.cpp
+arpoi.cpp
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/arpoi.cpp
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/student.cpp
+iostream
+-
+student.h
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/student.h
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules1/student.h
+string
+-
+
