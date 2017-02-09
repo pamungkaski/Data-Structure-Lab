@@ -1,0 +1,3 @@
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules2/cmake-build-debug/CMakeFiles/PreModules2.dir
