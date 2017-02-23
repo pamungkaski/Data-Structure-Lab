@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules5/doublecircular.cpp
+iostream
+-
+doublecircular.h
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules5/doublecircular.h
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules5/doublecircular.h
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules5/main.cpp
+iostream
+-
+doublecircular.h
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules5/doublecircular.h
+

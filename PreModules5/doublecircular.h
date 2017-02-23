@@ -2,8 +2,8 @@
 // Created by Ki Ageng Satria Pamungkas on 2/23/17.
 //
 
-#ifndef PREMODULE5_DOUBLECIRCULAR_H
-#define PREMODULE5_DOUBLECIRCULAR_H
+#ifndef PREMODULES5_DOUBLECIRCULAR_H
+#define PREMODULES5_DOUBLECIRCULAR_H
 
 typedef int infotype;
 typedef struct doublecircular *address;
