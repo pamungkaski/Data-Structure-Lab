@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules4/main.cpp
+iostream
+-
+singlelist.h
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules4/singlelist.h
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules4/singlelist.cpp
+singlelist.h
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules4/singlelist.h
+iostream
+-
+
+/Users/iampamungkas/CLionProjects/LabSTD/PreModules4/singlelist.h
+iostream
+-
+
