@@ -23,9 +23,14 @@ void insertFirst(List &L,address P){
         L.first=P;
         P->next=L.first;
     }else{
+        address x = L.first;
+        while(x->next!=L.first){
+            x= x->next;
+        }
         P->next=L.first;
         L.first->prev=P;
         L.first=P;
+        x->next =L.first;
     }
 };
 void insertAfter( List &L,address Prec,address P){
@@ -115,4 +120,14 @@ void deleteValue(List &L,infotype x){
         }
         dealokasi(P);
     };
+};
+void reverseList(List &L1,List &L2){
+    if (L1.first!= NULL) {
+        address P = L1.first;
+        do{
+            insertFirst(L2,alokasi(P->info));
+            P= P->next;
+        }while(P!=L1.first);
+    }
+
 };

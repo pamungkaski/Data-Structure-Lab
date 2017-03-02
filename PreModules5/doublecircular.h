@@ -27,7 +27,7 @@ void deleteAfter(List &L,address Prec,address P);
 void deleteLast(List &L,address P);
 void printInfo(List L);
 void deleteValue(List &L,infotype x);
-
+void reverseList(List &L1,List &L2);
 
 
 #endif //PREMODULE3_DOUBLECIRCULAR_H
